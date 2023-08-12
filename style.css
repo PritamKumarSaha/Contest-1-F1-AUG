@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Nunito&family=Roboto&family=Rubik&display=swap');
+
+
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Inter;
+    font-size: 30px;
+}
+.header{
+    border: 2px solid black;
+    padding-left: 1rem;
+}
+.for-padding{
+    padding-top: 20px;
+    padding-left: 25px;
+    padding-right: 50px;
+}
+div>h1{
+    color:black;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration-line: underline;
+}
+a{
+    color: black;
+}
+.trivia{
+    border: 0px solid black;
+}
+div>ol{
+    padding-left: 1rem;
+}
+li{
+    padding-bottom: .5rem;
+}
